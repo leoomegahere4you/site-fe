@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/site-fe.git/static/css/main.5d34b6c1.css",
+    "main.js": "/site-fe.git/static/js/main.bae5db9d.js",
+    "static/js/787.c2f34da4.chunk.js": "/site-fe.git/static/js/787.c2f34da4.chunk.js",
+    "static/media/leo_omega_logo.png": "/site-fe.git/static/media/leo_omega_logo.d4f7f0f07a9343b4a950.png",
+    "static/media/arrow-right.png": "/site-fe.git/static/media/arrow-right.ee4fa016ef0d91af27e5.png",
+    "static/media/arrow-left.png": "/site-fe.git/static/media/arrow-left.7cce0952ec82f31dce3d.png",
+    "index.html": "/site-fe.git/index.html",
+    "main.5d34b6c1.css.map": "/site-fe.git/static/css/main.5d34b6c1.css.map",
+    "main.bae5db9d.js.map": "/site-fe.git/static/js/main.bae5db9d.js.map",
+    "787.c2f34da4.chunk.js.map": "/site-fe.git/static/js/787.c2f34da4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d34b6c1.css",
+    "static/js/main.bae5db9d.js"
+  ]
+}
